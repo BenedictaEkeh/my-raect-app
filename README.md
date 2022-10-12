@@ -1,2 +1,1 @@
-# my-raect-app
-My React Calculator
+# React-calculator
